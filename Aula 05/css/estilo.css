@@ -1,0 +1,20 @@
+
+body{
+    background-color: red
+}
+
+a:link {
+    background-color: yellow;
+  }
+  
+  a:visited {
+    background-color: yellow
+  }
+  
+  a:hover {
+    background-color: red
+  }
+  
+  a:active {
+    background-color: hotpink;
+  } 
