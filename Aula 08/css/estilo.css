@@ -1,0 +1,19 @@
+body{
+background-color: bisque;
+}
+
+.botao{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.formulario1{
+
+color: #8a2be2;
+padding: 10px;
+}
+
+.formulario2{
+
+    color: #ff0000;
+    padding: 10px;
+}
